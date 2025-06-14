@@ -9,7 +9,7 @@ Repozytorium zawiera materiały i zadania projektowe realizowane w ramach kursu.
 
 ## Podgląd strony
 
-![Podgląd strony](screenshot.png)
+![Podgląd strony](img/glowna_screen.png)
 
 ## Spis treści
 
